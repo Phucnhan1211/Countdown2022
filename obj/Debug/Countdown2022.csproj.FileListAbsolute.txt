@@ -1,0 +1,16 @@
+C:\Users\USER\Source\Repos\Countdown2022\bin\Debug\Countdown2022.exe.config
+C:\Users\USER\Source\Repos\Countdown2022\bin\Debug\Countdown2022.exe
+C:\Users\USER\Source\Repos\Countdown2022\bin\Debug\Countdown2022.pdb
+C:\Users\USER\Source\Repos\Countdown2022\obj\Debug\Countdown2022.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\Countdown2022\obj\Debug\Countdown2022.Form1.resources
+C:\Users\USER\Source\Repos\Countdown2022\obj\Debug\Countdown2022.Properties.Resources.resources
+C:\Users\USER\Source\Repos\Countdown2022\obj\Debug\Countdown2022.csproj.GenerateResource.cache
+C:\Users\USER\Source\Repos\Countdown2022\obj\Debug\Countdown2022.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\Countdown2022\obj\Debug\Countdown2022.exe
+C:\Users\USER\Source\Repos\Countdown2022\obj\Debug\Countdown2022.pdb
+C:\Users\USER\source\repos\Countdown2022\bin\Debug\Interop.WMPLib.dll
+C:\Users\USER\source\repos\Countdown2022\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\source\repos\Countdown2022\obj\Debug\Interop.WMPLib.dll
+C:\Users\USER\source\repos\Countdown2022\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\source\repos\Countdown2022\obj\Debug\Countdown2022.csproj.ResolveComReference.cache
+C:\Users\USER\source\repos\Countdown2022\obj\Debug\Countdown2022.Form2.resources
